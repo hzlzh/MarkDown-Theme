@@ -7,21 +7,21 @@ _Repo Path:_
      |---- CSS/             CSS Style files  
      |---- Themes/          Mou Source Code Mode Theme  
      
-## Includes            
+## Includes  
 
-### CSS: Sublime
+### CSS: Github ReadMe Style
 
-A CSS Style for Mou's `Live Preview Mode`
+[GitHub-ReadMe-Style.css] is a CSS Style for Mou's `Code Mode`, it shows how the `ReadMe.md` looks like on the website page.
 
-Screenshot:
+Screenshot:  
 ![GitHub-ReadMe-Style-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/CSS/GitHub-ReadMe-Style-Preview.png)
 
-### Theme: Github ReadMe Style
+### Theme: Sublime
 
-A CSS Style for Mou's `Code Mode`
+[Sublime.txt] & [Sublime+.txt] is a CSS Style for Mou's `Live Preview Mode`, The color inspired by `.MD` file style using [Sublime Text 2.app].
 
-Screenshot:
-![Sublime-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime-Preview.png)
+Screenshot:  
+![Sublime-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime-Preview.png)    
 
 ## How To
 
@@ -30,4 +30,10 @@ Screenshot:
 ![Change-Mou-Theme.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Change-Mou-Theme.png)
 
 [Mou.app]: http://mouapp.com/
+[Sublime Text 2.app]: http://www.sublimetext.com/
+[Sublime.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime.txt
+[Sublime+.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime+.txt
+[GitHub-ReadMe-Style.css]: https://github.com/hzlzh/Mou-Theme/raw/master/CSS/GitHub-ReadMe-Style.css
+
+
 
