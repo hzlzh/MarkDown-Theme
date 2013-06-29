@@ -23,11 +23,9 @@ Screenshot:
 Screenshot:  
 ![Sublime-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime-Preview.png)    
 
-## How To
+### Both Code Mode & Live Preview Mode
 
-![Change-Mou-CSS.png](https://github.com/hzlzh/Mou-Theme/raw/master/CSS/Change-Mou-CSS.png)
-
-![Change-Mou-Theme.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Change-Mou-Theme.png)
+![Both.png](https://github.com/hzlzh/Mou-Theme/raw/master/CSS/Both.png)
 
 [Mou.app]: http://mouapp.com/
 [Sublime Text 2.app]: http://www.sublimetext.com/
