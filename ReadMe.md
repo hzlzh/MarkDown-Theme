@@ -18,7 +18,7 @@ Screenshot:
 
 ### Theme: Sublime
 
-[Sublime.txt] & [Sublime+.txt] is a CSS Style for Mou's `Live Preview Mode`, The color inspired by `.MD` file style using [Sublime Text 2.app].
+[Sublime.txt] & [Sublime+.txt] are CSS Styles for Mou's `Live Preview Mode`, The color inspired by `.MD` file style using [Sublime Text 2.app].
 
 Screenshot:  
 ![Sublime-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime-Preview.png)    
