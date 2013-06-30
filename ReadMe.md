@@ -27,6 +27,10 @@ Screenshot:
 
 ![Both.png](https://github.com/hzlzh/Mou-Theme/raw/master/CSS/Both.png)
 
+## Contribution
+
+You can `Star` or `Fork` this repo with pull request to make this theme more and more wonderful~
+
 [Mou.app]: http://mouapp.com/
 [Sublime Text 2.app]: http://www.sublimetext.com/
 [Sublime.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime.txt
