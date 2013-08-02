@@ -33,6 +33,10 @@ _Both Code Mode & Live Preview Mode_
 
 `Star` or `Fork` to make this repo more and more wonderful~
 
+## Credits
+Created by @[hzlzh](https://twitter.com/hzlzh 'Contact me on Twitter') under [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0) 
+
+
 [Mou.app]: http://mouapp.com/
 [Sublime Text 2.app]: http://www.sublimetext.com/
 [Sublime.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime.txt
