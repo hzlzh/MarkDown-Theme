@@ -9,14 +9,14 @@ _Repo Path:_
      
 ## Includes
 
-### CSS: GitHub ReadMe Style
+### CSS: GitHub ReadMe Style v1.1
 
 [GitHub-ReadMe.css] is a CSS Style for Mou's `Code Mode`, it shows exactly what `ReadMe.md` will look on GitHub page, enjoy~
 
 Screenshot:  
 ![GitHub-ReadMe-Preview.png](https://github.com/hzlzh/Mou-Theme/raw/master/CSS/GitHub-ReadMe-Preview.png)
 
-### Theme: Sublime
+### Theme: Sublime v1.1
 
 [Sublime.txt] & [Sublime+.txt] are CSS Styles for Mou's `Live Preview Mode`, The `Color Scheme` is inspired by `.MD` file style under [Sublime Text 2.app] and Mou's Icon.
 
