@@ -37,7 +37,7 @@ _Both Code Mode & Live Preview Mode_
 Created by @[hzlzh](https://twitter.com/hzlzh 'Contact me on Twitter') under [MIT] LICENSE
 
 
-[Mou.app]: http://mouapp.com/
+[Mou.app]: http://25.io/mou/
 [Sublime Text 2.app]: http://www.sublimetext.com/
 [Sublime.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime.txt
 [Sublime+.txt]:https://github.com/hzlzh/Mou-Theme/raw/master/Themes/Sublime+.txt
