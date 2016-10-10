@@ -1,7 +1,7 @@
 # Mou Theme
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hzlzh/Mou-Theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Both `Themes` and `CSS` for [Mou.app] \(A nice MarkDown editor on Mac OS\)  
+Both `Themes` and `CSS` for [MacDown](http://macdown.uranusjr.com/) & [Mou.app] \(A nice MarkDown editor on Mac OS\)  
 _Repo Path:_
 
     --- 
